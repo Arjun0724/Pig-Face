@@ -1,0 +1,78 @@
+
+.ears{
+    display: flex;
+    justify-content: space-between;
+    width:11.5rem;
+    height:9.9rem;
+    margin:auto;
+    margin-top:60px;
+    
+}
+
+.e1,.e2{
+    background-color: pink;
+    width: 80px;
+    height: 110px;
+    border-radius: 50px;
+    margin-top: 130px;
+    border: 3px solid black;
+}
+
+.face{
+    height: 250px;
+    width: 250px;
+    background: rgb(255, 192, 203);
+    border-radius: 50%;
+    margin: auto;
+    margin-left: 632px;
+    border: 3px solid black;
+    position: absolute;
+}
+
+.eyes{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}
+
+.reye,.leye{
+    height: 50px;
+    width: 50px;
+    background: white;
+    border-radius: 50%;
+    justify-content: space-evenly;
+}
+
+
+.i1,.i2{
+    height: 23px;
+    width: 23px;
+    background: black;
+    border-radius: 50%;
+    margin:auto;
+    margin-top: 16px;
+}
+
+
+.nose{
+    height: 40px;
+    width: 90px;
+    background: red;
+    margin: auto;
+    margin-top: 20%;
+    border: 3px solid black;
+    border-radius: 25px;
+    justify-content: space-evenly;
+    /* padding-top: 10px; */
+    display:flex;
+}
+
+.right,.left{
+    height:25px;
+    width:25px;
+    background: black;
+    border-radius: 50%;
+    margin: auto;
+    justify-content: space-evenly;
+
+}
